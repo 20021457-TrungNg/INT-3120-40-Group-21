@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7 (swiftlang-5.7.0.127.4 clang-1400.0.29.50)"
+options: "d2d6bed73238ed268e11dd8419e23c17d442de45359d02af6b0fdb4bb8449de3"
+build_start_time: [1664188533, 287941932]
+build_end_time: [1664188533, 546545982]
+inputs:
+  "/Users/kami/Desktop/development/flutterPj/test_app/macos/Flutter/GeneratedPluginRegistrant.swift": !private [1664188469, 798527717]
+  "/Users/kami/Desktop/development/flutterPj/test_app/macos/Runner/AppDelegate.swift": !private [1663167258, 0]
+  "/Users/kami/Desktop/development/flutterPj/test_app/macos/Runner/MainFlutterWindow.swift": !private [1663167258, 0]
